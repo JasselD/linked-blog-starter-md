@@ -87,4 +87,4 @@ public class Test {
 }
 
 ```
-The differences between abstraction and  [[Interface]]
+The differences between abstraction and  [[Interface 1]]
